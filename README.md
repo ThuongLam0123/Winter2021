@@ -1,8 +1,5 @@
-
+<!DOCTYPE html>
 <html>
-	<head>
-		<title>Module 01</title>
-	</head>
 	<body>
     <h1>Module 01: Intordution to HTML </h1>
     <h2>Created by: Thuong Lam </h2>
@@ -16,7 +13,7 @@
 				<figcaption>
 					This recipe for Vitenamese beef noodle soup is so simple and delicious!
 				</figcaption>
-			</p>
+		</p>
       </figure>
 		<h4>More Recipes:</h4>
 		<p>
