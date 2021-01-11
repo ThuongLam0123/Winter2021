@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<body>
+<body>
     <h1>Module 01: Intordution to HTML </h1>
     <h2>Created by: Thuong Lam </h2>
     <hr>
@@ -30,8 +30,8 @@
       alt="Vietnamese Caramelized Pork Belly" title="Vietnamese Caramelized Pork Belly" />
       <a href="https://delightfulplate.com/vietnamese-caramelized-pork-belly-thit-kho-tau/" target="blank"> </a>
       <img src="https://www.google.com/search?q=vietnamese+bun+bo+hue&tbm=isch&ved=2ahUKEwiM55fwgZTuAhWWiZ4KHawhB7MQ2-cCegQIABAA&oq=vietnamese+bun+&gs_lcp=CgNpbWcQARgAMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATOgYIABAeEBM6AggAOgQIABAeUPCJB1iOsgdgldIHaAFwAHgAgAHeAYgBlQiSAQYyMC4wLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=cVb8X8zqIJaT-gSsw5yYCw&bih=549&biw=741#imgrc=eu5Xie_s0QoSgM" 
-      alt="Spicy Vietnamese Beef & Pork Noodle Soup" and " title="Spicy Vietnamese Beef & Pork Noodle Soup" />
+      alt="Spicy Vietnamese Beef & Pork Noodle Soup" title="Spicy Vietnamese Beef & Pork Noodle Soup" />
       <a href="https://www.hungryhuy.com/bun-bo-hue-recipe/" target="blank"> </a>
 		</p>
-	</body>
+</body>
 </html>
