@@ -20,7 +20,7 @@
       
 <a href="http://atasteofjoyandlove.com/vietnamese-sweet-and-sour-soup-canh-chua/"> <img src="https://images.app.goo.gl/NBqfQ8hzdwsEkVtH6" width="82" height="86" alt="Vietnamese Sweet and Sour Soup" title="Vietnamese Sweet and Sour Soup"></a>
 			
-<a href="https://www.taste.com.au/recipes/crispy-vietnamese-pancakes/7dd0062e-93a1-4733-8ea7-1a390f64d8c2"><img src="https://images.app.goo.gl/4YTwC2tazzFzUf7S7" width="82" height="86"alt="Crispy Vietnamese Pancakes" title="Crispy Vietnamese Pancakes"> </a>
+<a href="https://www.taste.com.au/recipes/crispy-vietnamese-pancakes/7dd0062e-93a1-4733-8ea7-1a390f64d8c2"><img src="https://images.app.goo.gl/4YTwC2tazzFzUf7S7" width="82" height="86" alt="Crispy Vietnamese Pancakes" title="Crispy Vietnamese Pancakes"> </a>
       
 <a href="https://delightfulplate.com/vietnamese-caramelized-pork-belly-thit-kho-tau/" > <img src="https://images.app.goo.gl/vkRza9BSBokcDx9G8" width="82" height="86" title="Vietnamese Caramelized Pork Belly" alt="Vietnamese Caramelized Pork Belly"></a>
       
